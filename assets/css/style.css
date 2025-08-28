@@ -1,0 +1,64 @@
+/* Custom Navigation Tab Bar Styles */
+.main-nav {
+  margin: 0 0 20px 0;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.nav-tabs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.nav-tabs li {
+  margin: 0;
+}
+
+.nav-tab {
+  display: block;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: #586069;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.nav-tab:hover {
+  color: #0366d6;
+  background-color: #f6f8fa;
+  border-bottom-color: #e1e4e8;
+}
+
+.nav-tab.active {
+  color: #0366d6;
+  border-bottom-color: #0366d6;
+  background-color: #f1f8ff;
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .nav-tabs {
+    flex-direction: column;
+  }
+  
+  .nav-tab {
+    border-bottom: 1px solid #e1e4e8;
+    border-left: 2px solid transparent;
+  }
+  
+  .nav-tab:hover,
+  .nav-tab.active {
+    border-left-color: #0366d6;
+    border-bottom-color: #e1e4e8;
+  }
+}
+
+/* Ensure the tab bar integrates well with the existing theme */
+.main-nav + section {
+  margin-top: 0;
+}
