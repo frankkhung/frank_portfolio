@@ -1,5 +1,14 @@
 /* Academic Website Styling - Inspired by CMU Profile Pages */
 
+/* Hide GitHub-specific elements that the theme adds automatically */
+.view,
+.downloads,
+.github-link,
+.github-button,
+[class*="github"] {
+  display: none !important;
+}
+
 /* Global Font Settings */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
