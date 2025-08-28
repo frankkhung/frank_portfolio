@@ -26,6 +26,7 @@
   transition: all 0.2s ease;
   font-size: 14px;
   font-weight: 500;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .nav-tab:hover {
@@ -38,6 +39,15 @@
   color: #0366d6;
   border-bottom-color: #0366d6;
   background-color: #f1f8ff;
+}
+
+/* Global Font Settings */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Responsive design for mobile */
