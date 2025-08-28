@@ -132,7 +132,7 @@ header {
   font-size: 14px;
   font-weight: 500;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-align: center;
+  text-align: left;
   background: #f6f8fa;
   margin: 0 2px;
   transition: all 0.2s ease;
