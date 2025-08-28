@@ -18,26 +18,25 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div class="header-content">
+          <div class="title-section">
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+          </div>
+          
+          <!-- Navigation Tab Bar - Now beside the title -->
+          <nav class="main-nav">
+            <ul class="nav-tabs">
+              <li><a href="{{ "/" | absolute_url }}" class="nav-tab">Home</a></li>
+              <li><a href="{{ "/dataviz-examples" | absolute_url }}" class="nav-tab">Data Viz Examples</a></li>
+              <li><a href="{{ "/critique-by-design" | absolute_url }}" class="nav-tab">Critique by Design</a></li>
+              <li><a href="{{ "/final-project-part-one" | absolute_url }}" class="nav-tab">Final Project I</a></li>
+              <li><a href="{{ "/final-project-part-two" | absolute_url }}" class="nav-tab">Final Project II</a></li>
+              <li><a href="{{ "/final-project-part-three" | absolute_url }}" class="nav-tab">Final Project III</a></li>
+            </ul>
+          </nav>
+        </div>
       </header>
-      
-      <!-- Navigation Tab Bar -->
-      <nav class="main-nav">
-        <ul class="nav-tabs">
-          <li><a href="{{ "/" | absolute_url }}" class="nav-tab">Home</a></li>
-          <li><a href="{{ "/dataviz-examples" | absolute_url }}" class="nav-tab">Data Viz Examples</a></li>
-          <li><a href="{{ "/critique-by-design" | absolute_url }}" class="nav-tab">Critique by Design</a></li>
-          <li><a href="{{ "/final-project-part-one" | absolute_url }}" class="nav-tab">Final Project I</a></li>
-          <li><a href="{{ "/final-project-part-two" | absolute_url }}" class="nav-tab">Final Project II</a></li>
-          <li><a href="{{ "/final-project-part-three" | absolute_url }}" class="nav-tab">Final Project III</a></li>
-        </ul>
-      </nav>
       
       <section>
 
