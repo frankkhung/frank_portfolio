@@ -81,7 +81,7 @@ header {
   color: #333;
   display: flex;
   align-items: center;
-  gap: 12px;
+  justify-content: center;
   transition: all 0.2s ease;
 }
 
@@ -91,8 +91,8 @@ header {
 }
 
 .home-icon {
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
   flex-shrink: 0;
 }
 
