@@ -19,7 +19,7 @@ This initial confusion became my North Star—if I, someone comfortable with dat
 
 I decided to approach this methodically, critiquing each element:
 
-**The Title:** "Per Second" told me nothing. I spent precious mental energy trying to decode what the visualization was actually about instead of learning from it. This led me to realize that a good title should immediately orient the viewer—it shouldn't be a puzzle to solve.
+**The Title:** "Per Second" told me nothing. I spent some time trying to decode what the visualization was actually about instead of learning from it. This led me to realize that a good title should immediately orient the viewer—it shouldn't be a puzzle to solve.
 
 **The Description:** Fifty different items thrown together with no apparent logic beyond ascending frequency order. "Sound audible to human ear" appeared miles away from "typical human speech" in the list, even though they're clearly related. The emoji scattered throughout felt like digital confetti—more distracting than helpful. This made me think about the importance of categorization and visual hierarchy.
 
@@ -55,6 +55,8 @@ Moving into Tableau, I faced my first technical reality check. Logarithmic scale
 - **Color coding:** Different colors for each category
 - **Tooltips:** Detailed information on hover to keep the main view clean
 - **Maintained ascending order:** Preserved the pyramid concept while adding logical groupings
+
+Here's my first prototype made by Tableau: (_Tableau's display might look different on different platform or different display monitors._)
 
 <div class='tableauPlaceholder' id='viz1758071149881' style='position: relative'>
     <noscript>
@@ -121,8 +123,6 @@ My classmates brought additional perspectives:
 - Some expected descending order (highest to lowest frequencies)
 - The scientific notation on the X-axis was hard to interpret
 
-Each piece of feedback challenged a decision I'd made, forcing me to articulate *why* I'd made those choices.
-
 ## Incorporating Feedback - The Refinement Process
 
 With the feedbacks, I had to weigh them against my design goals and the data's constraints.
@@ -138,7 +138,7 @@ With the feedbacks, I had to weigh them against my design goals and the data's c
 - **Kept ascending order:** I decided data accuracy trumped some user expectations. Starting with biological frequencies (heartbeat, brainwaves) gives readers a relatable entry point
 - **Kept scientific notation:** Tableau's limitation doesn't allow me to custom the axis with logarithmic scale.
 
-Here's the final result:
+Here's the final result ((_Tableau's display might look different on different platform or different display monitors._)):
 
 <div class='tableauPlaceholder' id='viz1758071476687' style='position: relative'>
     <noscript>
@@ -187,10 +187,9 @@ My final visualization shows the complete electromagnetic and mechanical frequen
 - **Tooltips:** Keeps the main view clean while providing detailed information on demand
 
 **What it shows differently:**
-Instead of a confusing list of random phenomena, users now see a structured journey through the frequency spectrum. They can understand that their heartbeat, their WiFi, and gamma rays are all part of the same fundamental concept—just at vastly different scales.
+Instead of a confusing list of random phenomena, users now see a structured journey through the frequency spectrum. They can understand that their heartbeat, their WiFi, and gamma rays are all part of the same fundamental concept—just at vastly different frequency.
 
-**Limitations**
-Tableau's display might look different on different platform or different display monitors. It's hard to have a fixed format of the graph.
+
 
 
 ## AI Acknowledgment
