@@ -99,7 +99,7 @@ My goal in this course is to master the art of data storytelling, especially lea
 
 .card-type {
   display: inline-block;
-  background: #3498db;
+  background: #6c757d;
   color: white;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
@@ -144,7 +144,7 @@ My goal in this course is to master the art of data storytelling, especially lea
 }
 
 .card-link {
-  color: #3498db;
+  color: #495057;
   text-decoration: none;
   font-weight: 500;
   font-size: 0.95rem;
@@ -152,7 +152,7 @@ My goal in this course is to master the art of data storytelling, especially lea
 }
 
 .card-link:hover {
-  color: #2980b9;
+  color: #212529;
   text-decoration: none;
 }
 
