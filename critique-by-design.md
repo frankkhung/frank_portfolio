@@ -136,7 +136,7 @@ With the feedbacks, I had to weigh them against my design goals and the data's c
 **Changes I Resisted (and why):**
 
 - **Kept ascending order:** I decided data accuracy trumped some user expectations. Starting with biological frequencies (heartbeat, brainwaves) gives readers a relatable entry point
-- **Kept scientific notation:** Tableau's limitation, but also accurate representation of the scale
+- **Kept scientific notation:** Tableau's limitation doesn't allow me to custom the axis with logarithmic scale.
 
 Here's the final result:
 
