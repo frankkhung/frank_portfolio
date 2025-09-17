@@ -15,15 +15,15 @@ My first instinct was right. The more I stared at this visualization, the more c
 
 This initial confusion became my North Star—if I, someone comfortable with data, was struggling this much, imagine how a general audience would feel.
 
-## Systematic Critique - Breaking Down What Wasn't Working
+## Critique - Breaking Down What Wasn't Working
 
 I decided to approach this methodically, critiquing each element:
 
-**The Title Problem:** "Per Second" told me nothing. I spent precious mental energy trying to decode what the visualization was actually about instead of learning from it. This led me to realize that a good title should immediately orient the viewer—it shouldn't be a puzzle to solve.
+**The Title:** "Per Second" told me nothing. I spent precious mental energy trying to decode what the visualization was actually about instead of learning from it. This led me to realize that a good title should immediately orient the viewer—it shouldn't be a puzzle to solve.
 
-**The Description Chaos:** Fifty different items thrown together with no apparent logic beyond ascending frequency order. "Sound audible to human ear" appeared miles away from "typical human speech" in the list, even though they're clearly related. The emoji scattered throughout felt like digital confetti—more distracting than helpful. This made me think about the importance of categorization and visual hierarchy.
+**The Description:** Fifty different items thrown together with no apparent logic beyond ascending frequency order. "Sound audible to human ear" appeared miles away from "typical human speech" in the list, even though they're clearly related. The emoji scattered throughout felt like digital confetti—more distracting than helpful. This made me think about the importance of categorization and visual hierarchy.
 
-**The Number Nightmare:** Those beautiful zeros that first attracted me became the visualization's biggest weakness. After "Microwave (1 Billion waves per second)," I lost all ability to comprehend the scale. 10^18, 10^21—these numbers became meaningless noise.
+**The Number:** Those beautiful zeros that first attracted me became the visualization's biggest weakness. After "Microwave (1 Billion waves per second)," I lost all ability to comprehend the scale. 10^18, 10^21—these numbers became meaningless noise.
 
 These critiques crystallized a key insight: **accessibility over visual appeal**. The pyramid shape was interesting, but if readers couldn't understand the content, the visualization failed its primary purpose.
 
@@ -92,11 +92,13 @@ Moving into Tableau, I faced my first technical reality check. Logarithmic scale
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-The first version felt promising, but I knew I needed outside perspectives to validate my assumptions.
 
 ## User Feedback - The Reality Check
 
 **Brian's Feedback:**
+
+_Brian, CMU MISM_
+
 Watching Brian interact with my visualization provided valuable insights. His first action—clicking the title—told me he understood the purpose immediately. When he described the content, he naturally used my category groupings rather than listing individual items. This validated my categorization approach.
 
 But then came the surprise: *"It is surprising that it's not 100% hierarchical, for ultrasound scanner is much higher than the category of sound & audio."*
@@ -110,6 +112,9 @@ Brian's design critiques were equally eye-opening:
 - "I find it weird that I have to scroll down" - The full spectrum wasn't visible at once
 
 **Classmate Feedback:**
+
+_Classmates, CMU_
+
 My classmates brought additional perspectives:
 
 - The title could be even more informative
