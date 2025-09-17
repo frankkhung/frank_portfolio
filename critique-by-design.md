@@ -9,7 +9,7 @@ title: Critique by Design
 
 Browsing through [MakeoverMonday](https://makeovermonday.co.uk/)'s collection of visualization challenges, I stumbled upon an article titled "[Per Second](https://informationisbeautiful.net/2024/per-second-vibrations-cycles-waves-rate-frequency/)." What immediately caught my eye wasn't the content, but the visual pattern—this pyramid-like shape created by cascading zeros in the frequency numbers. As someone who loves diving into data patterns, I knew there was potential here, but I also sensed something was fundamentally wrong with how the information was being communicated.
 
-![MarineGEO circle logo](/assets/graph/IIB-SM-Per-Second.png "Per Second")
+![Per Second](assets/graph/IIB-SM-Per-Second.png "Per Second")
 
 My first instinct was right. The more I stared at this visualization, the more confused I became. Why was it called "Per Second"? What did vibrations, cycles, waves, rates, and frequencies all have to do with each other? I found myself working hard to connect "sound audible to human ear" with "beta awake brain waves," wondering why they weren't grouped in any logical way.
 
@@ -183,3 +183,8 @@ My final visualization shows the complete electromagnetic and mechanical frequen
 
 **What it shows differently:**
 Instead of a confusing list of random phenomena, users now see a structured journey through the frequency spectrum. They can understand that their heartbeat, their WiFi, and gamma rays are all part of the same fundamental concept—just at vastly different scales.
+
+
+## AI Acknowledgment
+- I used Gemini to help me correctly categorize the descriptions into seven categories.
+- I used AI to correct my grammar and the flow of the entire document after providing my original script.
