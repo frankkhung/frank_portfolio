@@ -190,6 +190,11 @@ My final visualization shows the complete electromagnetic and mechanical frequen
 Instead of a confusing list of random phenomena, users now see a structured journey through the frequency spectrum. They can understand that their heartbeat, their WiFi, and gamma rays are all part of the same fundamental concept—just at vastly different frequency.
 
 
+## Citation
+- Beautiful, Information is. “Per Second – Vibrations / Cycles / Waves / Rate / Frequency.” Information Is Beautiful, https://informationisbeautiful.net/2024/per-second-vibrations-cycles-waves-rate-frequency/. Accessed 16 Sep. 2025.
+
+- “Makeover Monday.” Makeover Monday, https://makeovermonday.co.uk. Accessed 16 Sep. 2025.
+
 
 
 ## AI Acknowledgment
