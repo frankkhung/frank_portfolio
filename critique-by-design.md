@@ -189,6 +189,9 @@ My final visualization shows the complete electromagnetic and mechanical frequen
 **What it shows differently:**
 Instead of a confusing list of random phenomena, users now see a structured journey through the frequency spectrum. They can understand that their heartbeat, their WiFi, and gamma rays are all part of the same fundamental concept—just at vastly different scales.
 
+**Limitations**
+Tableau's display might look different on different platform or different display monitors. It's hard to have a fixed format of the graph.
+
 
 ## AI Acknowledgment
 - I used Gemini to help me correctly categorize the descriptions into seven categories.
