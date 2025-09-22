@@ -120,4 +120,4 @@ The final deliverable will be a compelling, data-driven story that Pittsburgh re
 - Zillow Research: https://www.zillow.com/research/data/ 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I will be using Perplexity to scrap Trader Joe's News on store opening date.
