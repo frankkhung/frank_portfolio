@@ -4,7 +4,7 @@ title: Final Project Part II
 ---
 
 # Wireframes / storyboards
-Shorthand Storyboard[https://preview.shorthand.com/7agkB6xhv5SzRpyh/responsive/desktop]
+[Shorthand Storyboard](https://preview.shorthand.com/7agkB6xhv5SzRpyh/responsive/desktop)
 
 # User Research and Interviews
 
@@ -167,6 +167,23 @@ Why this audience: This demographic is actively making housing decisions and nee
     </tr>
   </tbody>
 </table>
+
+## Improvements
+
+### 1. **Clarify the Pivot to Testing Earlier**
+Multiple interviewees were confused about when the story shifts from exploring the concept to actually *testing* whether Trader Joe's drives housing prices. Foreshadow your testing approach and hypothesis earlier in the presentation so readers know where you're headed.
+
+### 2. **Explain Control Group Selection**
+Both interviewees were confused about why specific control neighborhoods were chosen. Add clear explanations about your methodology for selecting comparison neighborhoods before showing the data visualizations.
+
+### 3. **Reduce "BUT" Transitions**
+Interviewee #3 noted too many sections starting with "BUT," which creates a negative, contradictory feeling and weakens narrative momentum. Restructure transitions to build your argument more positively and cohesively.
+
+### 4. **Improve Section Linkages**
+The connection between sections (especially the market trend analysis) feels disconnected and unclear. Make the logical flow between sections more explicit so readers understand how each piece contributes to your overall conclusion.
+
+### 5. **Provide More Supporting Evidence**
+Interviewees felt the conclusion wasn't fully supported by the data presented. Add more evidence (like citywide Pittsburgh averages for comparison) and show sufficient information to make your conclusion convincing rather than just logically sound.
 
 ## References
 - Scott, Diamond-Michael. “The “Trader Joe’s Effect" On Community and Economic Development.” Substack newsletter. Great Books + Great Cities, 18 Dec. 2023, https://greatbooksgreatcities.substack.com/p/the-trader-joes-effect-on-community.
