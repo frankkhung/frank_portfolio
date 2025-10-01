@@ -169,8 +169,8 @@ Why this audience: This demographic is actively making housing decisions and nee
 </table>
 
 ## References
-_List any references you used here._
+- Scott, Diamond-Michael. “The “Trader Joe’s Effect" On Community and Economic Development.” Substack newsletter. Great Books + Great Cities, 18 Dec. 2023, https://greatbooksgreatcities.substack.com/p/the-trader-joes-effect-on-community.
+- Zillow Research: https://www.zillow.com/research/data/ 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I will be using Perplexity to scrap Trader Joe's News on store opening date.
