@@ -63,6 +63,7 @@ Why this audience: This demographic is actively making housing decisions and nee
 - **"Any other feedback or suggestions?"**
 
 ## Interview Result
+
 | **Category** | **Interviewee #1** | **Interviewee #2** | **Interviewee #3** |
 |--------------|-------------------|-------------------|-------------------|
 | **INITIAL REACTIONS** | **Positive:**<br>- Background story explains concept well and is motivating<br>- Questions answered progressively<br>- Opening grabs attention<br><br>**Issues:**<br>- Not clear the story pivots to *testing* whether TJ drives prices<br>- Expected to see price data earlier<br>- Quote: "It wasn't clear we pivoted to choosing to prove whether it drives the housing price"<br>- Needs earlier hint at conclusion/testing approach | [Fill in Interviewee #2's initial reactions here] | **Positive:**<br>- Finds topic very interesting<br>- Logic holds and makes sense overall<br><br>**Issues:**<br>- Quote: "The logic hold and it makes sense, but it's not convincing yet"<br>- Doesn't show enough information to reach the conclusion<br>- Assumption issue: "People wouldn't be directly thinking trader joe's is driving the housing market up"<br>- Story assumes reader believes TJ drives prices, but many may not |
