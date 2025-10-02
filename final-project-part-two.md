@@ -88,7 +88,10 @@ Why this audience: This demographic is actively making housing decisions and nee
         • Needs earlier hint at conclusion/testing approach
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
-        [Fill in Interviewee #2's initial reactions here]
+        <strong>Positive:</strong><br>
+        • The theme is very clear with the color<br>
+        <strong>Issues:</strong><br>
+        • Probably because it's a draft with some content lacking so the logic flow isn't that strong.
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
         <strong>Positive:</strong><br>
@@ -117,7 +120,14 @@ Why this audience: This demographic is actively making housing decisions and nee
         • Needs explanation of why control neighborhoods chosen
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
-        [Fill in Interviewee #2's viz feedback here]
+        <strong>What Worked:</strong><br>
+        • The graph is clear but I would wonder how other areas' home value look like<br><br>
+        <strong>Confusion:</strong><br>
+        • <strong>Labeling issues:</strong><br>
+          - Quote: "Wording in the label is confusing"<br>
+        • <strong>Tableau formatting problems</strong> (consistent issue)<br>
+        • <strong>Control group needs explanation:</strong><br>
+          - Quote: "I would want to know the reason why it's selected"<br>
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
         <strong>What Worked:</strong><br>
@@ -146,7 +156,10 @@ Why this audience: This demographic is actively making housing decisions and nee
         • Needs better foreshadowing of testing approach
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
-        [Fill in Interviewee #2's overall thoughts here]
+        <strong>Strongest:</strong><br>
+        • I think I read something similiar somewhere and this article conveys the idea well. And finds other ways to justify when you can't find the clear effect.
+        <strong>Weakest:</strong><br>
+        • How about other stores? Why are you only listing out East Liberty?
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
         <strong>Strongest:</strong><br>
