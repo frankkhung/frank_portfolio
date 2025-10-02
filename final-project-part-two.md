@@ -157,7 +157,7 @@ Why this audience: This demographic is actively making housing decisions and nee
       </td>
       <td style="border: 1px solid black; padding: 12px; vertical-align: top;">
         <strong>Strongest:</strong><br>
-        • I think I read something similiar somewhere and this article conveys the idea well. And finds other ways to justify when you can't find the clear effect.
+        • I think I read something similiar somewhere and this article conveys the idea well. And finds other ways to justify when you can't find the clear effect.<br><br>
         <strong>Weakest:</strong><br>
         • How about other stores? Why are you only listing out East Liberty?
       </td>
